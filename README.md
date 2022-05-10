@@ -1,5 +1,3 @@
-WelCome To GuPr0 Hub!!
-
-นี้คือ GuPr0 Hub แหล่งรวมโปร Roblox Map: Boxfruits Ninja Legends และอื่นๆอีกหลายแมพ
-
-เราจะพัฒนาโปรให้ดียิ่งขึ้น เพื่อสังคมของเกมที่ดี!!
+WelCome To Pawno Script
+แหล่งรวมสคริป pawno ระบบต่างๆของ SA-MP 0.3.7 R2
+By.Assmin
